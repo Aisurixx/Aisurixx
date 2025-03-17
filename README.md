@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Ais</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aisurixx&label=Profile%20views&color=0e75b6&style=flat" alt="aisurixx" /> </p>
+<img src="https://i.pinimg.com/originals/76/c0/a8/76c0a814cf966cc2c5093ed8064ac505.gif" width="25"> <b>Github Stats</b>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aisurixx" alt="aisurixx" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/rzlvnz21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rzlvnz21" height="30" width="40" /></a>
+<p align="center">
+<a href="https://github.com/aisurixx/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aisurixx&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="450"/>
+</a>
+  <a href="https://github.com/aisurixx/">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aisurixx&theme=jolly&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2200AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="380"/>
+</a>
+ <a href="https://github.com/aisurixx">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=aisurixx&theme=darkhub" width="820"/>
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aisurixx&show_icons=true&locale=en&layout=compact" alt="aisurixx" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aisurixx&" alt="aisurixx" /></p>
+<p align="center">
+<a href="https://github.com/aisurixx"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aisurixx&langs_count=14&show_icons=true&locale=en&layout=compact&theme=jolly" width="470px"  alt="Yipmong"/></a>
+</p>
