@@ -1,8 +1,6 @@
 
 
 
-<p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdjYTdnZzlyZmh4aHlqc3Z2MXNzMzZiOWxraGJ1OWtqa2F1dnliYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CN6ydfsOQi3d3edylC/giphy.gif" alt="aisurixx" /> </p>
-
 
 
 
